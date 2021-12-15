@@ -38,7 +38,7 @@ body{
 .book_container{
     display: flex;
     flex-wrap: wrap;
-    margin: 20px 0px 0px 50px;
+    margin: 10px 0px 0px 20px;
     width: 95vw;
     height: 160vh;
     border: 1px solid white;
